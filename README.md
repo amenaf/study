@@ -1,1 +1,5 @@
 # study
+
+わけわかめ
+fackin comandline
+
